@@ -1,0 +1,6 @@
+*.json
+scrape/.ipynb_checkpoints/
+scrape/dump/
+scrape/testbed.ipynb
+
+viz/tableau
